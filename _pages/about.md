@@ -17,7 +17,7 @@ Recent Highlights
 
 * One paper accepted by [JMIR public health and surveillance](https://publichealth.jmir.org/): ["*Subphenotyping of Mexican Patients With COVID-19 at Preadmission To Anticipate Severity Stratification: Age-Sex Unbiased Meta-Clustering Technique*"](https://publichealth.jmir.org/2022/3/e30032), 2022.
 
-* One upcoming paper regarding uncovering COVID-19 subphenotypes, using a debiasing clustering methodology, based on blood test patterns between Spanish ICU patients toward personalized treatment through cluster characterization and early risk stratification. The paper is available in preprint version at [MedRxiv](https://www.medrxiv.org/content/10.1101/2022.05.10.22274889v1), submitting to [The Lancet Respiratory Medicine](https://www.thelancet.com/journals/lanres/home).
+* One upcoming paper regarding uncovering COVID-19 subphenotypes, using a debiasing clustering methodology, based on blood test patterns between Spanish ICU patients toward personalized treatment through cluster characterization and early risk stratification. The paper is available in preprint version at [MedRxiv](https://www.medrxiv.org/content/10.1101/2022.05.10.22274889v1), submitting to [Critical Care](https://ccforum.biomedcentral.com/).
 
 * Two paper accepted by [IJCAI-2022 EBeM Workshop](https://sites.google.com/view/ebem2022): ["*Reject Before You Run: Small Assessors Anticipate Big Language Models*"](http://ceur-ws.org/Vol-3169/paper4.pdf) with F Martínez-Plumed, J Hernández-Orallo, C Ferri, W Schellaert, and ["*A Framework for Categorising AI Evaluation Instruments*"](http://ceur-ws.org/Vol-3169/paper3.pdf) with AG Cohn, J Hernández-Orallo, JS Mboli, Y Moros-Daval, Z Xiang.
 
