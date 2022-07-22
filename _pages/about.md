@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-AI scientist at [European Comission](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-commission_en#:~:text=The%20European%20Commission%20is%20the,the%20Council%20of%20the%20EU.). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). Machine Learning Research Collaborator at [Biomedical Data Science Lab - ITACA](https://www.bdslab.upv.es/). Data Science B.Sc. Senior student at the Valencia Polytechnic University ([UPV](http://www.upv.es/)). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, Healthcare, Algorithmic Fairness, Robustness and explainability, and AI evaluation.
+AI scientist at [European Comission](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-commission_en#:~:text=The%20European%20Commission%20is%20the,the%20Council%20of%20the%20EU.). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). Machine Learning Research Collaborator at [Biomedical Data Science Lab - ITACA](https://www.bdslab.upv.es/). Data Science B.Sc. Senior student at the Valencia Polytechnic University ([UPV](http://www.upv.es/)). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, AI evaluation, Medicine and Healthcare, Algorithmic Fairness, Robustness, and XAI.
 
 Recent Highlights
 ======
