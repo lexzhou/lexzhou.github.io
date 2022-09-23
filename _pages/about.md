@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-AI Scientist at [European Comission](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-commission_en#:~:text=The%20European%20Commission%20is%20the,the%20Council%20of%20the%20EU.). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). Machine Learning Research Collaborator at [Biomedical Data Science Lab - ITACA](https://www.bdslab.upv.es/). Data Science B.Sc. Senior student at the Valencia Polytechnic University ([UPV](http://www.upv.es/)). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, AI evaluation, Medicine and Healthcare, Algorithmic Fairness, Robustness, and XAI.
+AI Scientist at [European Comission](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-commission_en#:~:text=The%20European%20Commission%20is%20the,the%20Council%20of%20the%20EU.). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). Data Science B.Sc. Senior student at the Technical University of Valencia ([UPV](http://www.upv.es/)). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, AI evaluation, Intelligence, Medicine and Healthcare, Algorithmic Fairness, Robustness, and XAI.
 
 Recent Highlights
 ======
@@ -31,9 +31,11 @@ The project is having a great media coverage at, e.g., [El Independiente](https:
 Awards
 ======
 
-* *Excellence Scholar Award* with the best course record at Valencia Polytechnic University (UPV), 2019-2020
+* *Excellence Scholar Award* with the best course record at UPV (Freshman), 2019-2020
 
-* *Excellence Scholar Award* with the best course record at Valencia Polytechnic University (UPV), 2020-2021
+* *Excellence Scholar Award* with the best course record at UPV (Sophomore), 2020-2021
+
+* *Excellence Scholar Award* with the best course record at UPV (Junior), 2021-2022
 
 * *Research Collaboration Scholarship* at Valencian Research Institute for Artificial Intelligence (VRAIN), 2020-2021 
 
