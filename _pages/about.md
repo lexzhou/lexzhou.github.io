@@ -10,18 +10,18 @@ redirect_from:
 
 
 
-AI Scientist at [European Comission](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-commission_en#:~:text=The%20European%20Commission%20is%20the,the%20Council%20of%20the%20EU.). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). Data Science B.Sc. Senior student at the Technical University of Valencia ([UPV](http://www.upv.es/)). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, AI evaluation, Intelligence, Medicine and Healthcare, Algorithmic Fairness, Robustness, and XAI.
+AI Scientist at [European Comission](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-commission_en#:~:text=The%20European%20Commission%20is%20the,the%20Council%20of%20the%20EU.). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). ML Research Collaborator at [Biomedical Data Science Lab](https://www.bdslab.upv.es/). Data Science B.Sc. Senior student at the Technical University of Valencia ([UPV](http://www.upv.es/)). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, AI evaluation, Intelligence, Medicine and Healthcare, Algorithmic Fairness, Robustness, AI Safety, and XAI.
 
 Recent Highlights
 ======
 
-* One paper accepted by [JMIR public health and surveillance](https://publichealth.jmir.org/): ["*Subphenotyping of Mexican Patients With COVID-19 at Preadmission To Anticipate Severity Stratification: Age-Sex Unbiased Meta-Clustering Technique*"](https://publichealth.jmir.org/2022/3/e30032), 2022.
+* One paper accepted by [JMIR public health and surveillance](https://publichealth.jmir.org/): ["*Subphenotyping of Mexican Patients With COVID-19 at Preadmission To Anticipate Severity Stratification: Age-Sex Unbiased Meta-Clustering Technique*"](https://publichealth.jmir.org/2022/3/e30032) with N Romero-García, J Martínez-Miranda, JA Conejero, JM García-Gómez, C Sáez.
 
 * One upcoming paper regarding uncovering COVID-19 subphenotypes, using a debiasing clustering methodology, based on blood test patterns between Spanish ICU patients toward personalized treatment through cluster characterization and early risk stratification. The paper is available in preprint version at [MedRxiv](https://www.medrxiv.org/content/10.1101/2022.05.10.22274889v1), submitting to [Critical Care](https://ccforum.biomedcentral.com/).
 
 * Two paper accepted by [IJCAI-2022 EBeM Workshop](https://sites.google.com/view/ebem2022): ["*Reject Before You Run: Small Assessors Anticipate Big Language Models*"](http://ceur-ws.org/Vol-3169/paper4.pdf) with F Martínez-Plumed, J Hernández-Orallo, C Ferri, W Schellaert, and ["*A Framework for Categorising AI Evaluation Instruments*"](http://ceur-ws.org/Vol-3169/paper3.pdf) with AG Cohn, J Hernández-Orallo, JS Mboli, Y Moros-Daval, Z Xiang.
 
-* Researcher of [**OCDE “Artificial Intelligence and the Future of Skills”**](https://www.oecd.org/education/ceri/) at [Valencian Research Institute for Artificial Intelligence](https://vrain.upv.es/) (with collaboration grant) under the supervision of Prof [José Hernández-Orallo](http://josephorallo.webs.upv.es/); a international project where I collaborate with other outstanding AI scientist fellows to evaluate different AI technologies in different domains: image classification, natural language processing, reinforcement learning, etc. The project is having an extraordinary [media coverage](https://www.google.com/search?rlz=1C1CHBF_esES918ES918&tbm=nws&sxsrf=AOaemvJyQQjJ8qEeNu7Zg_njAqxBUu6cww:1640518127488&q=OECD+Artificial+Intelligence+and+the+Future+of+Skills&sa=X&ved=2ahUKEwiE5vGhroH1AhWvz4UKHWtfDM0QgwN6BAgVEAE&biw=1421&bih=1021&dpr=1.21).
+* Researcher of [**OCDE “Artificial Intelligence and the Future of Skills”**](https://www.oecd.org/education/ceri/) under the supervision of Prof [José Hernández-Orallo](http://josephorallo.webs.upv.es/); a international project where I collaborate with other outstanding AI scientist fellows to evaluate different AI technologies in different domains: image classification, natural language processing, reinforcement learning, etc. The project is having an extraordinary [media coverage](https://www.google.com/search?rlz=1C1CHBF_esES918ES918&tbm=nws&sxsrf=AOaemvJyQQjJ8qEeNu7Zg_njAqxBUu6cww:1640518127488&q=OECD+Artificial+Intelligence+and+the+Future+of+Skills&sa=X&ved=2ahUKEwiE5vGhroH1AhWvz4UKHWtfDM0QgwN6BAgVEAE&biw=1421&bih=1021&dpr=1.21).
 
 * Main researcher of [**SUBCOVERWD-19**](http://www.itaca.upv.es/projects_page/single-projects/) with [Biomedical Data Science Lab](https://www.bdslab.upv.es/), [INCLIVA Health Research Institute of Valencian Clinic Hospital](https://www.incliva.es/) and [Research Institute of the University Hospital 12 de Octubre de Madrid i + 12](https://imas12.es/) under the supervision of Prof [Carlos Sáez Silvestre](http://personales.upv.es/carsaesi/#about); a data science project where we build a novel, fair and robust AI Clinical Decision Support System using ML that facilitates the prognosis and estimation of the evolution of patients with COVID-19, at the time of hospital admission or ICU admission.
 Currently, in this project, I am conducting two pieces of research regarding (1) unbiased subphenotypes discovery in Spanish COVID-19 ICU patients based on blood test patterns  that facilitate early risk stratification and (2) algorithmic unfairness evaluation toward developing robust methodology in predicting the survival of COVID-19 patients. 
@@ -31,15 +31,17 @@ The project is having a great media coverage at, e.g., [El Independiente](https:
 Awards
 ======
 
-* *Excellence Scholar Award* with the best course record at UPV (Freshman), 2019-2020
+* *National Undergraduate Research Collaboration Fellowship*, Ministry of Education - Government of Spain, 2022
 
-* *Excellence Scholar Award* with the best course record at UPV (Sophomore), 2020-2021
+* *Artificial Intelligence and the Future of Skills Research Fellowship* OECD, 2022
 
-* *Excellence Scholar Award* with the best course record at UPV (Junior), 2021-2022
+* *Best Academic Record Awards*, UPV, 2019-2022
 
-* *Research Collaboration Scholarship* at Valencian Research Institute for Artificial Intelligence (VRAIN), 2020-2021 
+* *MEC Undergraduate Scholarship*, Ministry of Education - Government of Spain, 2019-2022
 
-* *Santander Bank Studies Progress Scholarship* at Valencia Polytechnic University (UPV), 2020-2021
+* *GVA Salary Undergraduate Scholarship*, Government of Valencia, 2019-2022
+
+* *Santander Bank Studies Progress Scholarship* at Valencia Polytechnic University (UPV), 2021
 
 In the Media
 ======
