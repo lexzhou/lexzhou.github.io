@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-
-Hi there, I am Lexin and currently work as an AI Scientist at [European Comission](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-commission_en#:~:text=The%20European%20Commission%20is%20the,the%20Council%20of%20the%20EU.). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). ML Research Collaborator at [Biomedical Data Science Lab](https://www.bdslab.upv.es/). Data Science B.Sc. Senior student at the Technical University of Valencia ([UPV](http://www.upv.es/)). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, AI evaluation, Intelligence, General Purpose AI, Medicine and Healthcare, Algorithmic Fairness, AI Safety, and XAI.
+Hi there, I am Lexin, a researcher who seeks to make Artificial Intelligence (AI) more socially beneficial, better evaluate the systems we build, and deploy them safely. I currently work as an contracted AI Scientist at [European Comission](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-commission_en#:~:text=The%20European%20Commission%20is%20the,the%20Council%20of%20the%20EU.). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). ML Research Collaborator at [Biomedical Data Science Lab](https://www.bdslab.upv.es/). Data Science B.Sc. Senior student at the Technical University of Valencia ([UPV](http://www.upv.es/)). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, AI evaluation, General Purpose AI, AI Safety, Foundation Models, AI in Medicine, Algorithmic Fairness.
 
 Recent Highlights
 ======
