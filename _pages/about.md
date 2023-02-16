@@ -30,6 +30,8 @@ The project is having a great media coverage at, e.g., [El Independiente](https:
 Awards
 ======
 
+* *1st prize for the research publication with the highest annual impact factor*, ITACA Institute - UPV, 2022.
+
 * *National Undergraduate Research Collaboration Fellowship*, Ministry of Education - Government of Spain, 2022
 
 * *Artificial Intelligence and the Future of Skills Research Fellowship* OECD, 2022
