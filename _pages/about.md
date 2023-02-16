@@ -30,7 +30,7 @@ The project is having a great media coverage at, e.g., [El Independiente](https:
 Awards
 ======
 
-* *1st prize for the research publication with the highest annual impact factor*, Institute of Information and Communication Technologies - UPV, 2022.
+* *1st prize for the research publication with the highest annual impact factor*, Institute of Information and Communication Technologies (ITACA) at UPV, 2022.
 
 * *National Undergraduate Research Collaboration Fellowship*, Ministry of Education - Government of Spain, 2022
 
