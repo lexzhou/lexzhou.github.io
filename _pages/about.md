@@ -14,7 +14,7 @@ Hi there, I am Lex. I currently work as a Contracted Expert on AI Research at th
 Recent Highlights
 ======
 
-* One paper published at [JMIR public health and surveillance](https://publichealth.jmir.org/): ["*Subphenotyping of Mexican Patients With COVID-19 at Preadmission To Anticipate Severity Stratification: Age-Sex Unbiased Meta-Clustering Technique*"](https://publichealth.jmir.org/2022/3/e30032) with N Romero-García, J Martínez-Miranda, JA Conejero, JM García-Gómez, C Sáez. The paper is awarded with *1st prize for the research publication with the highest annual impact factor* at ITACA Institute - UPV in 2022.
+* One paper published at [JMIR public health and surveillance](https://publichealth.jmir.org/): ["*Subphenotyping of Mexican Patients With COVID-19 at Preadmission To Anticipate Severity Stratification: Age-Sex Unbiased Meta-Clustering Technique*"](https://publichealth.jmir.org/2022/3/e30032) with N Romero-García, J Martínez-Miranda, JA Conejero, JM García-Gómez, C Sáez. The paper was awarded 1st prize for the research publication with the highest annual impact factor at ITACA Institute - UPV in 2022.
 
 * One upcoming paper regarding uncovering COVID-19 subphenotypes, using a debiasing clustering methodology, based on blood test patterns between Spanish ICU patients toward personalized treatment through cluster characterization and early risk stratification. The paper is available in preprint version at [MedRxiv](https://www.medrxiv.org/content/10.1101/2022.05.10.22274889v1), submitting to [Critical Care](https://ccforum.biomedcentral.com/).
 
