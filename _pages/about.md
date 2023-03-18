@@ -38,10 +38,6 @@ Awards
 
 * *Best Academic Record Awards*, UPV, 2019-2022
 
-* *MEC Undergraduate Scholarship*, Ministry of Education - Government of Spain, 2019-2022
-
-* *GVA Salary Undergraduate Scholarship*, Government of Valencia, 2019-2022
-
 * *Santander Bank Studies Progress Scholarship* at Valencia Polytechnic University (UPV), 2021
 
 In the Media
