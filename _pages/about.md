@@ -36,7 +36,7 @@ Awards
 
 * *Artificial Intelligence and the Future of Skills Research Fellowship* OECD, 2022
 
-* *Best Academic Record Awards*, UPV, 2019-2022
+* *Excellence Scholar Award with the best annual course record*, UPV, 2019-2022
 
 * *Santander Bank Studies Progress Scholarship* at Valencia Polytechnic University (UPV), 2021
 
