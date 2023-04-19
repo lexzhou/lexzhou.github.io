@@ -43,6 +43,7 @@ Awards
 In the Media
 ======
 Don't take this too seriously:
-
-* *[Las Provincias](https://www.lasprovincias.es/comunitat/inteligencia-artificial-controlar-20220408235952-ntvo.html)* 
+* *[Financial Times](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)*
 * *[Europa Press](https://www.europapress.es/comunitat-valenciana/noticia-estudio-upv-referencia-internacional-aplicacion-ia-seguimiento-covid-20220331102627.html)*
+* *[Las Provincias](https://www.lasprovincias.es/comunitat/inteligencia-artificial-controlar-20220408235952-ntvo.html)* 
+
