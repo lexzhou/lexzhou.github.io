@@ -36,7 +36,7 @@ Awards
 
 * *Artificial Intelligence and the Future of Skills Research Collaboration Fellowship*, OECD & VRAIN, 2022
 
-* *Excellence Scholar Award with the best annual course record*, UPV, 2019-2022
+* *Excellence Scholar Award with the best annual course record*, UPV, 2019-2023
 
 * *Santander Bank Studies Progress Scholarship*, 2021
 
