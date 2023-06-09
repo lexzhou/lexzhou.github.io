@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-2022
+2023
 ----
 * Nekane Romero-Garcia, **Lexin Zhou**, Rafael Badenes, Teresa Garcia-Morales, Agustín Gómez de la Cámara, Francisco T García Ruiz, Juan M García-Gómez, Carlos Sáez. [*“42nd International Symposium on Intensive Care & Emergency Medicine”*](https://ccforum.biomedcentral.com/counter/pdf/10.1186/s13054-023-04377-x.pdf), [Critical Care](https://ccforum.biomedcentral.com/), 2023. 
 
