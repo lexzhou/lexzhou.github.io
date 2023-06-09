@@ -6,6 +6,10 @@ author_profile: true
 
 2022
 ----
+* Nekane Romero-Garcia, **Lexin Zhou**, Rafael Badenes, Teresa Garcia-Morales, Agustín Gómez de la Cámara, Francisco T García Ruiz, Juan M García-Gómez, Carlos Sáez. [*“42nd International Symposium on Intensive Care & Emergency Medicine”*](https://ccforum.biomedcentral.com/counter/pdf/10.1186/s13054-023-04377-x.pdf), [Critical Care](https://ccforum.biomedcentral.com/), 2023. 
+
+2022
+----
 
 * **Lexin Zhou**, Nekane Romero, Juan Martínez-Miranda, J Alberto Conejero, Juan M García-Gómez, Carlos Sáez: [*"Subphenotyping of Mexican Patients With COVID-19 at Preadmission To Anticipate Severity Stratification: Age-Sex Unbiased Meta-Clustering Technique"*](https://publichealth.jmir.org/2022/3/e30032/), published at [JMIR Public Health and Surveillance](https://publichealth.jmir.org/), 2022. Awarded with 1st prize for the research publication with the highest annual impact factor at [ITACA Institute - UPV](http://www.itaca.upv.es/) in 2022.
 
