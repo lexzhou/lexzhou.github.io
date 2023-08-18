@@ -6,6 +6,10 @@ author_profile: true
 
 2023
 ----
+* **Lexin Zhou***, Pablo A. Moreno-Casares*, Fernando Martínez-Plumed*, John Burden, Ryan Burnell, Lucy Cheke, Cèsar Ferri, Alexandru 
+Marcoci, Behzad Mehrbakhsh, Yael Moros-Daval, Seán Ó hÉigeartaigh, Danaja Rutar, Wout Schellaert, Konstantinos Voudouris, José 
+Hernández-Orallo*. *“Predictable Artificial Intelligence”*. Paper submitted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/), 2023.
+
 * Nekane Romero-Garcia, **Lexin Zhou**, Rafael Badenes, Teresa Garcia-Morales, Agustín Gómez de la Cámara, Francisco T García Ruiz, Juan M García-Gómez, Carlos Sáez. [*“42nd International Symposium on Intensive Care & Emergency Medicine”*](https://ccforum.biomedcentral.com/counter/pdf/10.1186/s13054-023-04377-x.pdf), [Critical Care](https://ccforum.biomedcentral.com/), 2023. 
 
 2022
