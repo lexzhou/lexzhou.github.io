@@ -14,3 +14,4 @@ My CV available at: https://europa.eu/europass/eportfolio/api/eprofile/shared-pr
 
 -->
 
+[CV](https://drive.google.com/file/d/1m1Ed6U_FT_o9mreqDdJcIge3ArwOnoml/view?usp=sharing)
