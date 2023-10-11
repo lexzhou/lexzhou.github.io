@@ -15,6 +15,8 @@ Hi, I am Lexin, an MPhil student in ML at the [University of Cambridge](https://
 Recent Highlights
 ======
 
+* [Predictable Artificial Intelligence](https://arxiv.org/abs/2310.06167) preprint at Arxiv. 
+
 * Visited Cambridge from June to July.
 
 * Participated in the [Red Team of GPT-4](https://arxiv.org/abs/2303.08774), focusing on capability assessment, reliability evaluation, and adversarial testing.
