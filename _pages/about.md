@@ -29,6 +29,7 @@ Recent Highlights
 
 Awards
 ======
+* Open Philanthropy Long-term Future Scholarship.
 
 * *1st prize for the research publication with the highest annual impact factor*, Institute of Information and Communication Technologies (ITACA) at UPV, 2022.
 
