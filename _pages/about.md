@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am Lexin, an MPhil student in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/), generously funded by [Open Philanthropy](https://www.openphilanthropy.org/). I now also dedicate a slight proportion of my time as an independent contractor at [Meta AI](https://ai.facebook.com/). My bit is to make AI more socially beneficial, meaningfully evaluate the systems we build, anticipate what they are capable of, and deploy them safely. My main research agenda encompasses several areas of Artificial Intelligence, Evaluation of AI, AI Predictability, AI Safety, General Purpose AI, and Foundation Models.
+Hi, I am Lexin, an MPhil student in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/), generously funded by [Open Philanthropy](https://www.openphilanthropy.org/). I now also dedicate a slight proportion of my time as an independent contractor at [Meta AI](https://ai.facebook.com/). My bit is to make AI more socially beneficial, develop evaluation methods that allow meaningful assessment of the AI systems we build, anticipate what they are capable of, and deploy them safely. My main research agenda encompasses several areas of Artificial Intelligence, Evaluation of AI, AI Predictability, AI Safety, General Purpose AI, and Foundation Models.
 
 
 Recent Highlights
