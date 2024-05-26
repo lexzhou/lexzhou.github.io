@@ -9,11 +9,15 @@ redirect_from:
 ---
 
 
-Hi, I am Lexin, an MPhil student in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/), generously funded by [Open Philanthropy](https://www.openphilanthropy.org/). I now also dedicate a slight proportion of my time as an independent contractor at [Meta AI](https://ai.facebook.com/). My bit is to make AI more socially beneficial, develop rigorous evaluation methods that allow meaningful assessment of AI systems, anticipate what they are capable of, and deploy them safely. My main research agenda encompasses several areas of Artificial Intelligence, Evaluation of AI, AI Predictability, AI Safety, General Purpose AI, and Foundation Models.
+Hi, I am Lexin, an MPhil student in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/), generously funded by [Open Philanthropy](https://www.openphilanthropy.org/). This fall, I will be joining the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) at Cambridge to pursue my PhD in AI Evaluation under the wonderful supervision of Prof. [Anna Korhonen](https://sites.google.com/site/annakorhonen/) and Prof. [Jose Hernandez-Orall](https://josephorallo.webs.upv.es/). Prior to this, I have been engaged in research and consultancy roles on AI Evaluation at Meta AI, OpenAI, the Krueger AI
+Safety Lab, VRAIN, and the European Commission JRC. 
+
+I spend my day thinking about (i) creating robust evaluation methods that provide meaningful descriptions of AI's capabilities and risks, and (ii) finding ways to shape the predictability and reliability of AI positively; I have a special interest in general-purpose systems like large language models. I enjoy talking to people about any AI research they are excited about - feel free to  reach me at lexinzhouds [at] gmail [dot] com.
 
 
 Recent Highlights
 ======
+* Started my MPhil studies in Advanced Computer Science at Cambridge.
 
 * [Predictable Artificial Intelligence](https://arxiv.org/abs/2310.06167) preprint at Arxiv. 
 
