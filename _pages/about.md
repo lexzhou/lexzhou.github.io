@@ -16,9 +16,9 @@ I spend my day thinking about (i) creating robust evaluation methods that provid
 
 Recent Highlights
 ======
-* Started my MPhil studies in Advanced Computer Science at Cambridge.
-
 * Participated in the Red Team of LLaMA-3, focusing on adversarial testing.
+
+* Started my MPhil studies in Advanced Computer Science at Cambridge.
 
 * [Predictable Artificial Intelligence](https://arxiv.org/abs/2310.06167) preprint at Arxiv. 
 
