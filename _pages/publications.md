@@ -22,6 +22,4 @@ author_profile: true
 
 * **Lexin Zhou**, Fernando Martínez-Plumed, José Hernández-Orallo, Cèsar Ferri, Wout Schellaert: [*“Reject Before You Run: Small Assessors Anticipate Big Language Models”*](http://ceur-ws.org/Vol-3169/paper4.pdf), published at [IJCAI-2022 EBeM Workshop](https://sites.google.com/view/ebem2022), 2022.
 
-* **Lexin Zhou**, Nekane Romero-García, Rafael Badenes, María Teresa García Morales, David Lora, Agustín Gómez de la Cámara, Francisco Tomás García Ruiz, Juan M García-Gómez, Carlos Sáez: [*“Machine Learning Uncovers Blood Test Patterns Subphenotypes at Hospital Admission Discerning Increased 30-day ICU Mortality Rates in COVID-19 Elderly Patients”*](https://www.medrxiv.org/content/10.1101/2022.05.10.22274889v2.full-text), preprint at [medRxiv](https://www.medrxiv.org/), 2022.
-
 * Anthony G Cohn, José Hernández-Orallo, Julius Sechang Mboli, Yael Moros-Daval, Zhiliang Xiang, **Lexin Zhou**: [*“A Framework for Categorising AI Evaluation Instruments”*](http://ceur-ws.org/Vol-3169/paper3.pdf), published at [IJCAI-2022 EBeM Workshop](https://sites.google.com/view/ebem2022), 2022.
