@@ -7,7 +7,7 @@ author_profile: true
 2024
 ----
 * **Lexin Zhou**, Youmna Farag, Andreas Vlachos. *“A Framework for Dialogue Constructiveness Assessment”*. Paper submitted to
-[the 2024 conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org/), 2024.
+[the 2024 conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org/).
 
 2023
 ----
