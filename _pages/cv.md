@@ -4,4 +4,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[CV link](https://drive.google.com/file/d/1La0YfH9Z64tRRMWdWvEhjG_FJfFMhyje/view?usp=sharing)
+[CV link](https://drive.google.com/file/d/1-qQodKSC0I7g_ZnFBnsnU6p2TnSUC1GN/view?usp=sharing)
