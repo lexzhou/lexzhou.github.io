@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-2024
+2024 (feel free to check out my CV for a more up-to-date list)
 ----
 * **Lexin Zhou**, Youmna Farag, Andreas Vlachos. *“A Neural Feature-based Framework for Dialogue Constructiveness Assessment”*. Paper submitted to
 [the 2024 conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org/).
