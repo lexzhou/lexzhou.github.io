@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 
-Hi, I am Lexin, an MPhil student in Advanced Computer Science at the University of Cambridge, generously funded by [Open Philanthropy](https://www.openphilanthropy.org/). This fall, I will be joining the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) at Cambridge to pursue my PhD in AI Evaluation under the wonderful supervision of Prof. [Anna Korhonen](https://sites.google.com/site/annakorhonen/) and Prof. [Jose Hernandez-Orallo](https://josephorallo.webs.upv.es/). Prior to this, I have been engaged in research and consultancy roles on AI Evaluation at Meta AI, OpenAI, the Krueger AI Safety Lab, VRAIN, and the European Commission JRC. 
+Hi, I am Lexin, an MPhil graduate in Advanced Computer Science at the University of Cambridge, generously funded by [Open Philanthropy](https://www.openphilanthropy.org/). This fall, I will be joining the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) at Cambridge to pursue my PhD in AI Evaluation under the wonderful supervision of Prof. [Anna Korhonen](https://sites.google.com/site/annakorhonen/) and Prof. [Jose Hernandez-Orallo](https://josephorallo.webs.upv.es/). Prior to this, I have been engaged in research and consultancy roles on AI Evaluation at Meta AI, OpenAI, the Krueger AI Safety Lab, VRAIN, and the European Commission JRC. 
 
 I spend my day thinking about (i) creating robust evaluation methods that provide meaningful descriptions of AI's capabilities and risks, and (ii) finding ways to shape the predictability and reliability of AI positively; I have a special interest in general-purpose systems like large language models.
 
 
 Recent Highlights
 ======
+* [An LLM Feature-based Framework for Dialogue Constructiveness Assessment](https://arxiv.org/pdf/2406.14760v1) preprint at Arxiv. 
+
 * Participated in the Red Team of LLaMA-3, focusing on adversarial testing.
 
 * Started my MPhil studies in Advanced Computer Science at Cambridge.
