@@ -6,8 +6,8 @@ author_profile: true
 
 2024 (My CV contains a more up-to-date list)
 ----
-* **Lexin Zhou**, Youmna Farag, Andreas Vlachos. *“An LLM Feature-based Framework for Dialogue Constructiveness Assessment”*. Paper submitted to
-[the 2024 conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org/).
+* **Lexin Zhou**, Youmna Farag, Andreas Vlachos. *“An LLM Feature-based Framework for Dialogue Constructiveness Assessment”*. Paper under review at
+[EMNLP 2024](https://2024.emnlp.org/), 2024.
 
 2023
 ----
