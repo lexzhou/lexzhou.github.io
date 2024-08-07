@@ -13,7 +13,9 @@ I am an MPhil graduate in Advanced Computer Science at the University of Cambrid
 
 I spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the predictability, safety and reliability of AI systems; I am specially intrigued by general-purpose systems like large language models.
 
-In between, I've spent time in research/consultancy roles at Meta AI, OpenAI, the Krueger AI Safety Lab, VRAIN, the European Commission JRC, among others. If you are drawn to everything relevant on AI Evaluation and wanna stay informed by, I will definitely recommend the monthly [AI Evaluation Digest](https://aievaluation.substack.com/) newsletter, which is mostly led by several talented colleagues I've worked with, though I also make occasional contributions.
+In between, I've spent time in research/consultancy roles on AI Evaluation/Safety at Meta AI, OpenAI, the Krueger AI Safety Lab, VRAIN, the European Commission JRC, among others. 
+
+If you are drawn to everything relevant on AI Evaluation and wanna stay informed by, I will definitely recommend the monthly [AI Evaluation Digest](https://aievaluation.substack.com/) newsletter, which is mostly led by several talented colleagues I've worked with, though I also make occasional contributions.
 
 
 Recent Highlights
