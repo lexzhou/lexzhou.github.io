@@ -29,7 +29,7 @@ Recent Highlights
 
 * Participated in the [Red Team of GPT-4](https://arxiv.org/abs/2303.08774), focusing on capability assessment, reliability evaluation, and adversarial testing.
 
-* Co-organising a workshop on ["Predictable AI"](https://www.predictable-ai.org/march2023event) on March 8th, 2023.
+* Co-organising ["Predictable AI"](https://www.predictable-ai.org/march2023event) kick-off event in Valencia on March 8th, 2023.
 
 Awards
 ======
