@@ -33,17 +33,11 @@ Recent Highlights
 
 Awards
 ======
-* *Open Philanthropy Long-term Future Scholarship, 2024*
-
-* *Excellence Scholar Award with the best annual course record*, UPV, 2019-2023
+* *Excellence Scholar Award with the best annual course record*, Universitat Politècnica de València, 2019-2023
+  
+* *Open Philanthropy Long-term Future Scholarship, 2023*
 
 * *1st prize for the research publication with the highest annual impact factor*, Institute of Information and Communication Technologies (ITACA) at UPV, 2022.
-
-* *National Undergraduate Research Collaboration Fellowship*, Ministry of Education - Government of Spain, 2022
-
-* *Artificial Intelligence and the Future of Skills Research Collaboration Fellowship*, VRAIN & OECD, 2022
-
-* *Santander Bank Studies Progress Scholarship*, 2021
 
 In the Media
 ======
