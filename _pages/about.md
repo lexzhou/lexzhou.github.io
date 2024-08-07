@@ -11,7 +11,7 @@ redirect_from:
 
 I am an MPhil graduate in Advanced Computer Science at the University of Cambridge, generously funded by [Open Philanthropy](https://www.openphilanthropy.org/), and supervised by Prof. [Andreas Vlachos](https://andreasvlachos.github.io/). Prior to that, I graduated my BSc in Data Science at the Universitat Politècnica de València, advised by Prof. [Jose Hernandez-Orallo](https://josephorallo.webs.upv.es/).
 
-I spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the predictability, safety and reliability of AI systems; I am specially intrigued by general-purpose systems like large language models.
+I spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the predictability, safety and reliability of AI systems; I am specially intrigued by general-purpose systems like LLMs.
 
 In between, I've spent time in research/consultancy roles on AI Evaluation/Safety at Meta AI, OpenAI, the Krueger AI Safety Lab, VRAIN, the European Commission JRC, among others. 
 
