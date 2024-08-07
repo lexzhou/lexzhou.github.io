@@ -8,12 +8,11 @@ Refer to my CV for an up-to-date list.
 
 2024 
 ----
-* **Lexin Zhou**, Youmna Farag, Andreas Vlachos. *“An LLM Feature-based Framework for Dialogue Constructiveness Assessment”*. Paper submitted to
-[EMNLP 2024](https://2024.emnlp.org/), 2024.
+* **Lexin Zhou**, Youmna Farag, Andreas Vlachos. [*“An LLM Feature-based Framework for Dialogue Constructiveness Assessment”*](https://arxiv.org/pdf/2406.14760), preprint, 2024.
 
 2023
 ----
-* **Lexin Zhou**\*, Pablo A. Moreno-Casares\*, Fernando Martínez-Plumed\*, John Burden, Ryan Burnell, Lucy Cheke, Cèsar Ferri, Alexandru Marcoci, Behzad Mehrbakhsh, Yael Moros-Daval, Seán Ó hÉigeartaigh, Danaja Rutar, Wout Schellaert, Konstantinos Voudouris, José Hernández-Orallo\*. [*“Predictable Artificial Intelligence”*](https://arxiv.org/ftp/arxiv/papers/2310/2310.06167.pdf), under review at [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), 2023. (Current Status: Received a Major Revision).
+* **Lexin Zhou**\*, Pablo A. Moreno-Casares\*, Fernando Martínez-Plumed\*, John Burden, Ryan Burnell, Lucy Cheke, Cèsar Ferri, Alexandru Marcoci, Behzad Mehrbakhsh, Yael Moros-Daval, Seán Ó hÉigeartaigh, Danaja Rutar, Wout Schellaert, Konstantinos Voudouris, José Hernández-Orallo\*. [*“Predictable Artificial Intelligence”*](https://arxiv.org/ftp/arxiv/papers/2310/2310.06167.pdf), preprint, 2023.
 
 * Nekane Romero-Garcia, **Lexin Zhou**, Rafael Badenes, Teresa Garcia-Morales, Agustín Gómez de la Cámara, Francisco T García Ruiz, Juan M García-Gómez, Carlos Sáez. [*“Machine Learning Uncovers Blood Test Patterns Subphenotypes at Hospital Admission Discerning Increased 30-day ICU Mortality Rates in COVID-19 Elderly Patients - Meeting Abstract”*](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-2318687?lang=en), published at [Critical Care - 42nd International Symposium on Intensive Care & Emergency Medicine](https://ccforum.biomedcentral.com/articles/supplements/volume-27-supplement-1), 2023. 
 
