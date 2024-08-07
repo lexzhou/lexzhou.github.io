@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-Hi! I am Lexin, an MPhil graduate in Advanced Computer Science at the University of Cambridge, generously funded by [Open Philanthropy](https://www.openphilanthropy.org/) and supervised by Prof. [Andreas Vlachos](https://andreasvlachos.github.io/). Prior to that, I was pursuing a BSc in Data Science at TU Valencia, advised by Prof. [Jose Hernandez-Orallo](https://josephorallo.webs.upv.es/) This fall, I will be joining the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) at Cambridge to pursue my PhD in AI Evaluation under the supervision of Prof. [Anna Korhonen](https://sites.google.com/site/annakorhonen/) and Prof. [Jose Hernandez-Orallo](https://josephorallo.webs.upv.es/). I have been engaged in research and consultancy roles on AI Evaluation at Meta AI, OpenAI, the Krueger AI Safety Lab, VRAIN, and the European Commission JRC. 
+I am an MPhil graduate in Advanced Computer Science at the University of Cambridge, generously funded by [Open Philanthropy](https://www.openphilanthropy.org/), and supervised by Prof. [Andreas Vlachos](https://andreasvlachos.github.io/). Prior to that, I graduated my BSc in Data Science at the Universitat Politècnica de València, advised by Prof. [Jose Hernandez-Orallo](https://josephorallo.webs.upv.es/).
 
-I spend my day thinking about (i) creating robust evaluation methods that provide meaningful descriptions of AI's capabilities and risks, and (ii) finding ways to shape the predictability and reliability of AI positively; I have a special interest in general-purpose systems like large language models.
+I spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the predictability, safety and reliability of AI systems; I am specially intrigued by general-purpose systems like large language models.
+
+In between, I've spent time in research/consultancy roles at Meta AI, OpenAI, the Krueger AI Safety Lab, VRAIN, the European Commission JRC, among others. If you are drawn to everything relevant on AI Evaluation and wanna stay informed by, I will definitely recommend the [AI Evaluation Digest](https://aievaluation.substack.com/) substack, which is mostly led by several amazing colleagues I've worked with, though I also make occasional contributions.
 
 
 Recent Highlights
@@ -29,15 +31,15 @@ Recent Highlights
 
 Awards
 ======
-* *Open Philanthropy Long-term Future Scholarship.*
+* *Open Philanthropy Long-term Future Scholarship, 2024*
+
+* *Excellence Scholar Award with the best annual course record*, UPV, 2019-2023
 
 * *1st prize for the research publication with the highest annual impact factor*, Institute of Information and Communication Technologies (ITACA) at UPV, 2022.
 
 * *National Undergraduate Research Collaboration Fellowship*, Ministry of Education - Government of Spain, 2022
 
-* *Artificial Intelligence and the Future of Skills Research Collaboration Fellowship*, OECD & VRAIN, 2022
-
-* *Excellence Scholar Award with the best annual course record*, UPV, 2019-2023
+* *Artificial Intelligence and the Future of Skills Research Collaboration Fellowship*, VRAIN & OECD, 2022
 
 * *Santander Bank Studies Progress Scholarship*, 2021
 
@@ -45,6 +47,4 @@ In the Media
 ======
 Don't take this too seriously:
 * *[Financial Times](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8)*
-* *[Europa Press](https://www.europapress.es/comunitat-valenciana/noticia-estudio-upv-referencia-internacional-aplicacion-ia-seguimiento-covid-20220331102627.html)*
-* *[Las Provincias](https://www.lasprovincias.es/comunitat/inteligencia-artificial-controlar-20220408235952-ntvo.html)* 
 
