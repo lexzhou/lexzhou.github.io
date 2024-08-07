@@ -15,7 +15,7 @@ I spend my day thinking about (i) designing robust evaluation methods that offer
 
 In between, I've spent time in research/consultancy roles on AI Evaluation/Safety at Meta AI, OpenAI, the Krueger AI Safety Lab, VRAIN, the European Commission JRC, among others. 
 
-If you are drawn to everything relevant on AI Evaluation and wanna stay informed by, I will definitely recommend the monthly [AI Evaluation Digest](https://aievaluation.substack.com/) newsletter, which is mostly led by several talented colleagues I've worked with, though I also make occasional contributions.
+If you are drawn to everything relevant on AI Evaluation and wanna stay informed by, I will definitely recommend the monthly [AI Evaluation Digest](https://aievaluation.substack.com/) newsletter led by several talented colleagues I've worked with, which I also make occasional contributions.
 
 
 Recent Highlights
