@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-03-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Participated in the Red Team at Meta AI for their new foundation models, focusing on adversarial testing.
+
+
+
