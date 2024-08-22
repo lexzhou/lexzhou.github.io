@@ -23,7 +23,7 @@
 
 "ISICEM":
   url: https://www.isicem.org/
-  color: "#68448b" # purple
+  color: "#027f91" # cian color 
   
 "EBeM@IJCAI":
   url: https://sites.google.com/view/ebem2022
@@ -32,7 +32,7 @@
 ### Leaving one out to use the default pink color
 # "JMIR PHS"
 #  url: https://publichealth.jmir.org/
-#  color: "#027f91" # cian color 
+#  color: "#68448b" # purple
 
 #"EMNLP":
 #  url: https://2024.emnlp.org/
