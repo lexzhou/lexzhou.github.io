@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Feel free to refer to my Curriculum Vitae for an up-to-date list.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
