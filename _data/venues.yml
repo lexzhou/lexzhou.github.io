@@ -21,6 +21,10 @@
   url: https://arxiv.org/
   color: "#22b0de" # bright blue
 
+"ISICEM":
+  url: https://www.isicem.org/
+  color: "#027f91" # cian color
+  
 
 #"EMNLP":
 #  url: https://2024.emnlp.org/
@@ -31,4 +35,4 @@
 #  color: "#e07730" # orange
 
 #"Other":
-#  color: "#027f91" # cian color
+#  color: "#d3307a" # pink
