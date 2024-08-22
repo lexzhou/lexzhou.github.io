@@ -21,15 +21,6 @@
   url: https://arxiv.org/
   color: "#22b0de" # bright blue
 
-"ISICEM":
-  url: https://www.isicem.org/
-  color: "#d3307a" # pink
-  
-"JMIR PHS"
-  url: https://publichealth.jmir.org/
-  color: "#8bc53f" # bright green
-
-
 
 #"EMNLP":
 #  url: https://2024.emnlp.org/
