@@ -7,3 +7,39 @@
 
 "Vision":
   color: "#009f36"
+
+
+"To":
+  url: https://www.nature.com/
+  color: "#1951a0" # dark blue
+
+"Nature":
+  url: https://www.nature.com/
+  color: "#1951a0" # dark blue
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#22b0de" # bright blue
+
+"ISICEM":
+  url: https://www.isicem.org/
+  color: "#d3307a" # pink
+  
+"JMIR-PHS"
+  url: https://publichealth.jmir.org/
+  color: "#8bc53f" # bright green
+
+"EBeM@IJCAI":
+  url: https://sites.google.com/view/ebem2022
+  color: "#68448b" # purple
+
+"EMNLP":
+  url: https://2024.emnlp.org/
+  color: "#e07730" # orange
+
+"AIJ":
+  url: https://aij.ijcai.org/
+  color: "#e07730" # orange
+
+"Other":
+  color: "#027f91" # cian color
