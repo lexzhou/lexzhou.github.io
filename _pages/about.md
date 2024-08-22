@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an MPhil graduate in CS at the University of Cambridge, generously funded by [Open Philanthropy][op], and supervised by Prof. [Andreas Vlachos][avlachos]. Prior to that, I graduated my BSc in Data Science at the Universitat Politècnica de València, advised by Prof. [Jose Hernandez-Orallo][jhorallo].
+Hi. I am a CS Alumnus at the University of Cambridge, generously funded by [Open Philanthropy][op], and supervised by Prof. [Andreas Vlachos][avlachos]. Prior to that, I graduated my BSc in Data Science at the Universitat Politècnica de València, advised by Prof. [Jose Hernandez-Orallo][jhorallo].
 
 I mostly spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the reliability and predictability of AI systems. I am also broadly interested in psychometrics, AI's social implications, AI safety, and cognitive sciences; I am especially intrigued by general-purpose systems like LLMs.
 
