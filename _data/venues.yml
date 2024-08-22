@@ -25,6 +25,10 @@
   url: https://www.isicem.org/
   color: "#027f91" # cian color
   
+"JMIR PHS"
+  url: https://publichealth.jmir.org/
+  color: "#8bc53f" # bright green
+
 
 #"EMNLP":
 #  url: https://2024.emnlp.org/
