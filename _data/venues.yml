@@ -9,13 +9,13 @@
   color: "#009f36"
 
 
-"In Press":
-  url: https://www.nature.com/
-  color: "#1951a0" # dark blue
+# "In Press":
+# url: https://www.nature.com/
+# color: "#1951a0" # dark blue
 
-# "Nature":
-#  url: https://www.nature.com/
-#  color: "#1951a0" # dark blue
+"Nature":
+url: https://www.nature.com/
+color: "#1951a0" # dark blue
 
 "arXiv":
   url: https://arxiv.org/
@@ -34,9 +34,9 @@
 #  url: https://publichealth.jmir.org/
 #  color: "#68448b" # purple
 
-#"EMNLP":
-#  url: https://2024.emnlp.org/
-#  color: "#e07730" # orange
+"EMNLP":
+url: https://2024.emnlp.org/
+color: "#e07730" # orange
 
 #"AIJ":
 # url: https://aij.ijcai.org/
