@@ -1,5 +1,5 @@
 ---
-permalink: /assets/pdf/CV_Aug2024.pdf
+permalink: /assets/pdf/CV.pdf
 title: Curriculem Vitae
 nav: true
 nav_order: 4
