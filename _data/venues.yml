@@ -8,14 +8,9 @@
 "Vision":
   color: "#009f36"
 
-
-# "In Press":
-# url: https://www.nature.com/
-# color: "#1951a0" # dark blue
-
 "Nature":
-url: https://www.nature.com/
-color: "#1951a0" # dark blue
+  url: https://www.nature.com/
+  color: "#1951a0" # dark blue
 
 "arXiv":
   url: https://arxiv.org/
@@ -29,14 +24,14 @@ color: "#1951a0" # dark blue
   url: https://sites.google.com/view/ebem2022
   color: "#8bc53f" # bright green
 
+"EMNLP":
+  url: https://2024.emnlp.org/
+  color: "#e07730" # orange
+
 ### Leaving one out to use the default pink color
 # "JMIR PHS"
 #  url: https://publichealth.jmir.org/
 #  color: "#68448b" # purple
-
-"EMNLP":
-url: https://2024.emnlp.org/
-color: "#e07730" # orange
 
 #"AIJ":
 # url: https://aij.ijcai.org/
