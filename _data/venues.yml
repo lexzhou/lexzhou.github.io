@@ -8,7 +8,7 @@
 "Vision":
   color: "#009f36"
 
-"Nature":
+"NATURE":
   url: https://www.nature.com/
   color: "#1951a0" # dark blue
 
@@ -22,11 +22,11 @@
   
 "EBeM@IJCAI":
   url: https://sites.google.com/view/ebem2022
-  color: "#8bc53f" # bright green
+  color: "#e07730" # orange
 
 "EMNLP":
   url: https://2024.emnlp.org/
-  color: "#e07730" # orange
+  color: "#8bc53f" # bright green
 
 ### Leaving one out to use the default pink color
 # "JMIR PHS"
