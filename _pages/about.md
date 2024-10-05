@@ -25,7 +25,7 @@ I mostly spend my day thinking about (i) designing robust evaluation methods tha
 
 Across distinct timelines, I've spent time in research/consultancy roles on AI Evaluation at Meta AI, OpenAI, Krueger AI Safety Lab, VRAIN, and European Commission JRC, among others. My work has been featured in Financial Times, Nature, MIT Press, IEEE Spectrum, El País, IBM, New Scientists, among others.
 
-If you are drawn to everything relevant to AI Evaluation and wanna stay informed, I highly recommend the monthly [AI Evaluation Digest][aied], led by a few amazing colleagues I've worked with, to which I also make occasional contributions. If you want to talk about something I do, feel free to message me via [email](lexinzhouds@gmail.com) or on [Twitter](https://x.com/lexin_zhou).
+If you are drawn to everything relevant to AI Evaluation and wanna stay informed, I highly recommend the monthly [AI Evaluation Digest][aied], led by a few amazing colleagues I've worked with, to which I also make occasional contributions. If you want to talk about something I do, feel free to reach out via [email](lexinzhouds@gmail.com) or on [Twitter](https://x.com/lexin_zhou).
 
 I am seeking 25Fall PhD position and research intern roles at industry on AI evaluation, safety and/or social computing. Please do reach out if you think I would be a good fit!
 
