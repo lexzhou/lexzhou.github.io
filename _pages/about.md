@@ -23,7 +23,7 @@ I am a CS Alumnus at the University of Cambridge, funded by [Open Philanthropy][
 
 I mostly spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the reliability and predictability of AI systems. I am also broadly interested in AI's social implications, psychometrics, cognitive sciences, and AI safety; I am especially intrigued by general-purpose systems like LLMs.
 
-Across distinct timelines, I've spent time in research/consultancy roles on AI Evaluation at Meta AI, OpenAI, Krueger AI Safety Lab, VRAIN, and European Commission JRC, among others. 
+Across distinct timelines, I've spent time in research/consultancy roles on AI Evaluation at Meta AI, OpenAI, Krueger AI Safety Lab, VRAIN, and European Commission JRC, among others. My work has been featured in Financial Times, Nature, MIT Press, IEEE Spectrum, El País, IBM, New Scientists, among others.
 
 If you are drawn to everything relevant to AI Evaluation and wanna stay informed, I highly recommend the monthly [AI Evaluation Digest][aied], led by a few amazing colleagues I've worked with, to which I also make occasional contributions.
 
