@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-📜 [Predictable Artificial Intelligence](https://arxiv.org/abs/2310.06167) preprint at Arxiv. 
+📜 [Predictable Artificial Intelligence](https://arxiv.org/abs/2310.06167) preprint at Arxiv! 
 
 
