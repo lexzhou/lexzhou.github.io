@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a CS Alumnus at the University of Cambridge, funded by [Open Philanthropy][op], and supervised by Prof. [Andreas Vlachos][avlachos]. Prior to that, I graduated my BSc in Data Science at the Universitat Politècnica de València, advised by Prof. [Jose Hernandez-Orallo][jhorallo].
 
-I mostly spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the reliability and predictability of AI systems. I am also broadly interested in AI's social implications, safety, psychometrics, and cognitive sciences; I am especially intrigued by general-purpose systems like LLMs.
+I work on the evaluation of AI, social computing, human-AI interactions, AI safety, psychometrics, and cognitive sciences. At present, I mostly spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the design of AI systems in the quest of mitigating their harms and amplifying their benefits. I am especially intrigued by general-purpose systems like LLMs.
 
 Across distinct timelines, I've spent time in research/consultancy roles on AI Evaluation at Meta AI, OpenAI, Krueger AI Safety Lab, VRAIN, and European Commission JRC. My work has been featured in Financial Times, Nature, MIT Press, IEEE Spectrum, El País, IBM, New Scientists, among others.
 
