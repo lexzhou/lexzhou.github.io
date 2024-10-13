@@ -63,7 +63,8 @@ permissions:
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
-    runs-on: ubuntu-latest
+    # Change this to a specific version of Ubuntu (22.04)
+    runs-on: ubuntu-22.04  # Change from ubuntu-latest to ubuntu-22.04
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
