@@ -23,11 +23,11 @@ I am an incoming intern at Microsoft Research, advised by Dr. [Xing Xie][xxie] a
 
 I am interested in research about AI Evaluation, social computing, human-AI interactions and AI safety, regularly taking inspiration from psychometrics and cognitive science. At present, I mostly spend my day thinking about (i) designing robust evaluation methods that offer explanatory and predictive power of AI's capabilities, limitations and risks, and (ii) finding pathways to positively shape the reliability and predictability of AI systems in the quest of mitigating their harms and amplifying their benefits. I am especially intrigued by general-purpose systems like LLMs.
 
-Across distinct timelines, I've spent time in research/consultancy roles on AI Evaluation at Meta AI, OpenAI, Krueger AI Safety Lab, VRAIN, and European Commission JRC. My work has been featured in Financial Times, Nature, Forbes, IEEE Spectrum, El País, New Scientists, among others.
+Across distinct timelines, I've spent time in research/consultancy roles on AI Evaluation at Meta AI, OpenAI, Krueger AI Safety Lab, VRAIN, and European Commission JRC. My work has been featured in Financial Times, Nature, Forbes, MIT Technology Review, IEEE Spectrum, El País, New Scientists, among others.
 
-If you are drawn to everything relevant to AI Evaluation and wanna stay informed, I highly recommend the monthly [AI Evaluation Digest][aied], led by a few amazing colleagues I've worked with, to which I also make occasional contributions. If you want to talk about something I do, feel free to reach out via [email](lexinzhouds@gmail.com) or on [Twitter](https://x.com/lexin_zhou).
+If you are drawn to everything relevant to AI Evaluation and wanna stay informed, please consider subscribe the monthly [AI Evaluation Digest][aied] newsletter. If you want to talk about something I do, feel free to reach out via [email](lexinzhouds@gmail.com) or on [Twitter](https://x.com/lexin_zhou).
 
-I am seeking 25Fall PhD positions to continue my research journey. Please do reach out if you think I would be a good fit!
+I am seeking 25Fall PhD positions. Please do reach out if you think I would be a good fit!
 
 [op]: https://www.openphilanthropy.org/
 [jhorallo]: https://josephorallo.webs.upv.es/
