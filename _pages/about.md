@@ -27,7 +27,7 @@ Across distinct timelines, I've spent time in research/consultancy roles on AI E
 
 
 
-If you are drawn to everything relevant to AI Evaluation and wanna stay informed, please consider subscribe the monthly [AI Evaluation Digest][aied] newsletter. If you want to talk about something I do, feel free to reach out via [email](lexinzhouds@gmail.com) or on [Twitter](https://x.com/lexin_zhou).
+If you are drawn to everything relevant to AI Evaluation and wanna stay informed, please subscribe our monthly [AI Evaluation Digest][aied] newsletter! If you want to talk about something I do, feel free to reach out via [email](lexinzhouds@gmail.com) or on [Twitter](https://x.com/lexin_zhou).
 
 I am seeking 25Fall PhD positions. Please do reach out if you think I would be a good fit!
 
