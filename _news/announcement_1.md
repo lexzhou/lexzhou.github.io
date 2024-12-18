@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-📜 [An LLM Feature-based Framework for Dialogue Constructiveness Assessment](https://arxiv.org/pdf/2406.14760v2) is accepted by EMNLP 2024! 
+📜 [An LLM Feature-based Framework for Dialogue Constructiveness Assessment](https://arxiv.org/pdf/2406.14760v2) is accepted by EMNLP 2024, receiving high review scores that placed it in the top 0.6% of all submissions!
 
 
