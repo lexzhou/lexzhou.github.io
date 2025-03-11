@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-👨‍💻 Participated in the Red Team at [Meta AI](https://ai.meta.com) for their new foundation models, focusing on adversarial testing.
+📜 [General Scales Unlock AI Evaluation with Explanatory and Predictive Power]([https://www.nature.com/articles/s41586-024-07930-y](https://arxiv.org/abs/2503.06378)) is out in arXiv! [Takeaways on X](https://x.com/lexin_zhou/status/1899271596264825308)
 
 
 
