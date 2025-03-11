@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-📜 [General Scales Unlock AI Evaluation with Explanatory and Predictive Power]([https://www.nature.com/articles/s41586-024-07930-y](https://arxiv.org/abs/2503.06378)) is out in arXiv! [Takeaways on X](https://x.com/lexin_zhou/status/1899271596264825308)
+📜 New preprint on introducing conceptual and technological innovations for a science of AI Evaluation: [General Scales Unlock AI Evaluation with Explanatory and Predictive Power]([https://www.nature.com/articles/s41586-024-07930-y](https://arxiv.org/abs/2503.06378))! [Takeaways on X](https://x.com/lexin_zhou/status/1899271596264825308). This represents the work that I personally feel the most excited about, to date.
 
 
 
