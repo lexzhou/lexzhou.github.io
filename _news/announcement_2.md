@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-💡 Invited talk on [General Scales Unlock AI Evaluation with Explanatory and Predictive Power](https://arxiv.org/abs/2503.06378) at Princeton University!
+💡Invited talk on [General Scales Unlock AI Evaluation with Explanatory and Predictive Power](https://arxiv.org/abs/2503.06378) at Princeton University!
 
