@@ -19,7 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a CS PhD student at Princeton University, where I'm fortunate to be advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I am a computer scientist by training but also regularly draw insights from cognitive science. I design systematic evaluation frameworks that allow for understanding the capabilities and generalization patterns of LLMs, as well as their associated risks (e.g. unreliability). I also search for ways to disapprove Goodhart's Law through generalizable optimization targets, for building more reliable and robust LLMs.
+Hi! I'm a CS PhD student at Princeton University, where I'm fortunate to be advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I am a computer scientist by training but also regularly draw insights from cognitive science. I design systematic evaluation frameworks that allow for understanding the capabilities and generalization of LLMs, as well as their associated risks (e.g. unreliability). <!-- I also search for ways to disapprove Goodhart's Law through generalizable optimization targets, for building more reliable and robust LLMs. -->
+
 
 Prior to Princeton, I was at MSR for a year, working with Dr. [Xing Xie][xxie].  I did my MPhil in CS at Cambridge University, supervised by [Andreas Vlachos][avlachos], and my BSc in DS at TU Valencia, under [Jose Hernandez-Orallo][jhorallo].
 
