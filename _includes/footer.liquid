@@ -33,3 +33,36 @@
     </div>
   </footer>
 {% endif %}
+
+{% if site.enable_owner_stats_widget and site.goatcounter_site %}
+  <div id="owner-stats" class="container text-muted small text-center mt-2 mb-3" hidden>
+    <img src="https://{{ site.goatcounter_site }}.goatcounter.com/counter/TOTAL.svg" alt="total views" style="vertical-align: middle;" />
+    <img src="https://{{ site.goatcounter_site }}.goatcounter.com/counter/{{ page.url }}.svg" alt="page views" style="vertical-align: middle; margin-left: 0.5em;" />
+    <a href="https://{{ site.goatcounter_site }}.goatcounter.com" target="_blank" rel="noopener" style="margin-left: 0.5em;">dashboard &rarr;</a>
+  </div>
+  <script>
+    (function () {
+      var KEY = 'lexzhou_owner';
+      var params = new URLSearchParams(window.location.search);
+      var changed = false;
+      if (params.get('admin') === '1') {
+        localStorage.setItem(KEY, '1');
+        params.delete('admin');
+        changed = true;
+      } else if (params.get('admin') === '0') {
+        localStorage.removeItem(KEY);
+        params.delete('admin');
+        changed = true;
+      }
+      if (changed) {
+        var qs = params.toString();
+        var clean = window.location.pathname + (qs ? '?' + qs : '') + window.location.hash;
+        window.history.replaceState({}, '', clean);
+      }
+      if (localStorage.getItem(KEY) === '1') {
+        var el = document.getElementById('owner-stats');
+        if (el) el.hidden = false;
+      }
+    })();
+  </script>
+{% endif %}
