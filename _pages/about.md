@@ -22,11 +22,13 @@ social: true # includes social icons at the bottom of the page
 Hi! I'm a CS PhD student at Princeton University, where I'm fortunate to be advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I am a computer scientist by training but also regularly draw insights from cognitive science. I design systematic evaluation frameworks that allow for understanding the generalization of LLMs. 
 
 
-Prior to Princeton, I was at MSR for a year, working with Dr. [Xing Xie][xxie].  I did my MPhil in CS at Cambridge University, supervised by [Andreas Vlachos][avlachos], and my BSc in DS at TU Valencia, under [Jose Hernandez-Orallo][jhorallo].
+ Prior to Princeton, I was at Microsoft Research for a year, working with Dr. [Xing Xie][xxie].  I did my MPhil in CS at Cambridge University, supervised by [Andreas Vlachos][avlachos], and my BSc in DS at TU Valencia, under [Jose Hernandez-Orallo][jhorallo].
 
 <!-- I've spent time in research/consultancy roles at MSR, OpenAI, Meta AI, and European Commission. My work has been featured in [Nature](https://www.nature.com/articles/d41586-024-03137-3), [Financial Times](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8), [Microsoft Research](https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/), [MIT Tech Review](https://mp.weixin.qq.com/s/T2aqVlWePuRfEEuIP5_yqg), [Forbes](https://www.forbes.com/sites/delltechnologies/2024/10/29/steer-your-ai-strategy-straight-amid-the-jagged-frontier/), [IEEE Spectrum](https://spectrum.ieee.org/chatgpt-reliability), [El País](https://english.elpais.com/technology/2024-09-25/new-ai-models-like-chatgpt-pursue-superintelligence-but-cant-be-trusted-even-when-it-comes-to-basic-questions.html), [New Scientists](https://www.newscientist.com/article/2449427-ais-get-worse-at-answering-simple-questions-as-they-get-bigger/), [QbitAI](https://mp.weixin.qq.com/s/VCvkSUdKT7ZgBaeLWKVoTg), [IBM](https://www.ibm.com/blog/llms-and-reliability/), among others.-->
 
 <!-- If you wanna talk about something I do, feel free to reach out via [email](lexinzhouds@gmail.com) or on [Twitter](https://x.com/lexin_zhou)!-->
+
+If you wanna talk about something I do, feel free to reach out via [email](lexinzhouds@gmail.com)!
 
 [op]: https://www.openphilanthropy.org/
 [jhorallo]: https://josephorallo.webs.upv.es/
