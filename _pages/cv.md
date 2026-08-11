@@ -1,6 +1,6 @@
 ---
 permalink: /assets/pdf/CV.pdf
-title: Curriculem Vitae
-nav: false
+title: Curriculum Vitae
+nav: true
 nav_order: 4
 ---
