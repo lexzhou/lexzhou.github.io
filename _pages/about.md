@@ -11,7 +11,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I'm a CS PhD candidate at Princeton University, advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I love both CS and Cognitive Science. I work on data, evals and continual learning of language models and agents. Three technical directions that I'm recently building:
-- Efficient and holistic evals methodologies to inform model capabilities and limits 
+- Efficient and holistic evals methodologies to inform model generalization and limits 
 - Generalizable optimization metrics and data valuation frameworks
 - Self-improvement loops guided by robust evals insights and targeted synthetic data 
  
