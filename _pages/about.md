@@ -4,22 +4,13 @@ title: About
 permalink: /
 subtitle: 
 
-profile:
-  align: right
-  image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #  <p>555 your office number</p>
-  #  <p>123 your address street</p>
-  #  <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a CS PhD student at Princeton University, where I'm fortunate to be advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I am a computer scientist by training but also regularly draw insights from cognitive science. I'm interested in evals, data and generalization of LLMs and AI Agents. 
+I'm a CS PhD student at Princeton University, where I'm fortunate to be advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I am a computer scientist by training but also regularly draw insights from cognitive science. I'm interested in evals, data and generalization of LLMs and AI Agents. 
 
 
 Prior to Princeton, I was at Microsoft Research for a year, working with Dr. [Xing Xie][xxie].  I did my MPhil in CS at Cambridge University, supervised by [Andreas Vlachos][avlachos], and my BSc in DS at TU Valencia, under [Jose Hernandez-Orallo][jhorallo].
