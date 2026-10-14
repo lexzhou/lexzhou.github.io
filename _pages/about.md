@@ -12,7 +12,7 @@ social: true # includes social icons at the bottom of the page
 
 I'm a CS PhD candidate at Princeton University, advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I apply theories and experimental paradigms from cognitive science and psychometrics to evaluate frontier AI systems, value data recipes, and guide training decisions to improve real-world generalization and reliability. A few technical directions that I'm recently excited about:
 
-- Robust evaluations that track intended behavior despite (adversarial) optimization pressure, fighting against Goodhart's Law
+- Robust evaluations that track intended behavior despite (adversarial) optimization pressure
 - Translating large-scale evaluation insights into data valuation and synthetic RL environment generation 
 - Continual learning of AI agents 
 <!-- Robust evaluations that measure intended behavior, fighting against Goodhart's Law -->
