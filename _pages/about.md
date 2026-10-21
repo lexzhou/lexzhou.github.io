@@ -15,7 +15,7 @@ I'm a CS PhD candidate at Princeton University, advised by [Peter Henderson](htt
 - Robust evaluations that track intended generalization despite intense optimization pressure
 - Translating evaluation insights into data valuation and synthetic environment design 
 - RL Post-training of AI agents for improved generalization
-- <!-- Automatic discovery of surprising generalization failure modes at scale -->
+<!-- Automatic discovery of surprising generalization failure modes at scale -->
 <!-- Robust evaluations that measure intended behavior, fighting against Goodhart's Law -->
 <!-- Closed loops of data valuation and targeted synthetic data generation -->
 <!-- Recursive self-improvements guided by robust evals insights -->
