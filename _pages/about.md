@@ -13,6 +13,7 @@ social: true # includes social icons at the bottom of the page
 I'm a CS PhD candidate at Princeton University, advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I adapt theories and experimental paradigms from cognitive science and psychometrics to evaluate frontier AI systems, value data recipes, and guide training decisions to improve AI's real-world generalization. A few technical directions that I'm recently excited about:
 
 - Robust evaluations that track intended generalization despite intense optimization pressure
+- Automatic discovery of surprising generalization failure modes at scale
 - Translating evaluation insights into data valuation and synthetic environment design 
 - RL Post-training of AI agents for improved generalization
 <!-- Automatic discovery of surprising generalization failure modes at scale -->
