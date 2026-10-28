@@ -10,11 +10,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a CS PhD candidate at Princeton University, advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I adapt theories and experimental paradigms from cognitive science and psychometrics to evaluate frontier AI systems, value data recipes, and guide training decisions to improve AI's real-world generalization. A few technical directions that I'm recently excited about:
+I'm a CS PhD candidate at Princeton University, advised by [Peter Henderson](https://www.peterhenderson.co/) and closely collaborate with [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php). I evaluate frontier AI systems, value data recipes, and guide training decisions to improve AI's real-world generalization and reliability. A few technical directions that I'm recently excited about:
 
 - Robust evaluation frameworks that capture intended generalization, fighting against Goodhart’s Law
-- Automatic discovery of surprising generalization failure modes at scale
-- Translating evaluation insights into data valuation and synthetic environment design 
+- Automated discovery of surprising generalization failure patterns at scale
+- Translating large-scale evaluation insights into data valuation and synthetic environment design 
 - RL Post-training of AI agents for improved generalization
 <!-- Automatic discovery of surprising generalization failure modes at scale -->
 <!-- Robust evaluations that measure intended behavior, fighting against Goodhart's Law -->
